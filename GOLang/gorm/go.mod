@@ -1,4 +1,4 @@
-module project
+module api-tutorial
 
 go 1.16
 
